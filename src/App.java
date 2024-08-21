@@ -14,7 +14,7 @@ public class App {
         String password = scanner.nextLine();
 
         // Output the registration message
-        System.out.println("["+username + "] has been registered");
+        System.out.println("["+username + "] has been registered...");
 
         // Close the scanner
         scanner.close();
