@@ -13,6 +13,13 @@ public class App {
         System.out.print("Enter password: ");
         String password = scanner.nextLine();
 
+        
+
+
+
+        //asdadd/
+        // adsasdasd
+
         // Output the registration message
         System.out.println("["+username + "] has been registered....");
 
